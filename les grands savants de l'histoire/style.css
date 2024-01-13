@@ -1,0 +1,215 @@
+body {
+    background-image: url(image/wood-1755730_1280.jpg);
+    background-size: 800px 100px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 3cm;
+}
+
+#class1 p {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 1500px;
+    word-spacing: 2px;
+    margin-top: 80px;  
+}
+
+/* affichage de l'heure */
+
+
+  
+  #datetime-container {
+    font-size: 2em;
+    text-align: center;
+    color: white;
+    display: flex;
+    width: 10cm;
+    margin-left: 12cm;
+    margin-top: 2cm;
+  }
+
+
+#auteurs {
+    text-align: center;
+    border: 10px;
+    height: 1cm;
+}
+#nomauteur {
+    margin-top: 1.5cm;
+    margin-bottom:0px;
+    margin-left: 900px;
+}
+#nomauteur {
+    color: white;
+    text-transform: uppercase;
+}
+#citation p{
+color: white;
+text-transform: uppercase;
+margin-left: 170px;
+}
+
+#citationjours{
+    color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 10cm;
+    height:2cm;
+    border: 2px solid white;
+    position: absolute;
+}
+.section {
+    color: white;
+    text-align: center;
+    margin-top: 2cm;
+    
+}
+.footer {
+    text-align: center;
+    margin-top: 3cm;
+}
+footer {
+    color: white;
+}
+footer a {
+    color: white;
+}
+
+
+/* page archimede */
+
+.archimede {
+    text-transform: uppercase;
+    margin-top: 1cm;
+}
+.arch img {
+    width: 15cm;
+    height: 8cm;
+    margin-left: 6px;
+    margin-top: 6px;
+    position:absolute;
+}
+.archtext {
+    color: white;
+    margin-left: 600px;
+}
+
+/* albert einstein */
+
+.einstein {
+    text-transform: uppercase;
+    margin-top: 1cm;
+
+}
+.einst img {
+    width: 15cm;
+    height: 8cm;
+    margin-left: 6px;
+    margin-top: 6px;
+    position:absolute;
+
+}
+.einsttext {
+    color: white;
+    margin-left: 600px;
+
+}
+
+/* galilé */
+
+.galile {
+    text-transform: uppercase;
+    
+} 
+.galile img {
+    width: 15cm;
+    height: 8cm;
+    margin-left: 6px;
+    margin-top: 6px;
+    position:absolute;
+
+}
+.galiletext {
+    color: white;
+    margin-left: 600px;
+
+}
+
+/*isaac newton */
+
+.isaac {
+    text-transform: uppercase;
+}
+.isaac img {
+    width: 15cm;
+    height: 8cm;
+    margin-left: 6px;
+    margin-top: 6px;
+    position:absolute;
+}
+.isaactext {
+    color: white;
+    margin-left: 600px;
+}
+
+
+/* nikola tesla */
+
+.nikola {
+    text-transform: uppercase;
+}
+.nikola img {
+    width: 15cm;
+    height: 8cm;
+    margin-left: 6px;
+    margin-top: 6px;
+    position:absolute;
+
+}
+.nikolatext {
+    color: white;
+    margin-left: 600px;
+}
+
+/* alan turing */
+
+.alan {
+    text-transform: uppercase;
+}
+.alan img {
+
+    width: 15cm;
+    height: 8cm;
+    margin-left: 6px;
+    margin-top: 6px;
+    position:absolute;
+}
+.alantext {
+    color: white;
+    margin-left: 600px;
+}
+
+/* charles darwin */ 
+ .charles {
+    text-transform: uppercase;
+ }
+ .charles img {
+    width: 15cm;
+    height: 8cm;
+    margin-left: 6px;
+    margin-top: 6px;
+    position:absolute;
+ }
+ .charlestext {
+    color: white;
+    margin-left: 600px;
+ }
+
+ 
+ 
+ 
+ 
